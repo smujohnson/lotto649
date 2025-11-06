@@ -13,9 +13,7 @@
  *   01 07 18 22 33 49
  *
  * Notes:
- * - Each ticket contains 6 distinct numbers.
- * - Numbers are displayed in ascending order.
- * - Leading zeros are added for numbers < 10.
+ * - Written by Microsoft Copilot on Nov 5th 2025
  */
 
 #include <stdio.h>
